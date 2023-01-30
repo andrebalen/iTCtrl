@@ -9,5 +9,31 @@
 
 ## BOM / lista de materiais
 
-[sensor reading / leitura do sensor : max6675] (https://www.arducore.com.br/modulo-leitor-temperatura-max6675-termopar-tipo-k-arduino)
-[arduino board / placa arduino] ( )
+* [sensor reading / leitura do sensor : max6675] (https://www.arducore.com.br/modulo-leitor-temperatura-max6675-termopar-tipo-k-arduino)
+** [alternatives / alternativas ] (https://produto.mercadolivre.com.br/MLB-2858543120-modulo-leitor-temperatura-max6675-termopar-tipo-k-arduino-_JM)
+
+* [arduino board / placa arduino] (https://www.arducore.com.br/placa-arduino-uno-smd-cabo-usb )
+
+* [rele module / modulo rele] (https://www.casadarobotica.com/sensores-modulos/modulos/reles/modulo-rele-5v-1-canal-30a-alta-potencia-rm1hle-30a)
+** Este item precisa ser dimensionado para a corrente que o forno utiliza, medir a corrente antes de comprar
+
+### optional / opcionais
+
+* [Display] (  )
+
+* [case] ( )
+
+
+## Costs / Valores
+
+ materials / material	| cost in R$ / custo em R$ | total
+----------------------  | :---------------: 	   | -----:
+ MAX6675		| 	50		   |	
+ Arduino Uno		|	100		   |
+ Modulo Rele		|	30	           |
+ Display		|	42		   |
+ Case			|	15		   |
+			|			   |  237
+
+* valores em janeiro de 2023
+
