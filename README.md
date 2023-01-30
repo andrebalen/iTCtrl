@@ -28,12 +28,12 @@
 
  materials / material	| cost in R$ / custo em R$ | total
 ----------------------  | :---------------: 	   | -----:
- MAX6675		| 	50		   |	
- Arduino Uno		|	100		   |
- Modulo Rele		|	30	           |
- Display		|	42		   |
- Case			|	15		   |
- -			|	-		   |  237
+ MAX6675	    	| 	50		   |	0 
+ Arduino Uno		|	100		   |0
+ Modulo Rele		|	30	     |0
+ Display	    	|	42		    | 0
+ Case		      	|	15		    |  0
+  0			        |	 	 0    |  237
 
 * valores em janeiro de 2023
 
